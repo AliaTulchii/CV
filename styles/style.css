@@ -5,12 +5,9 @@
     font-family: sans-serif;
 }
 
-.list{
-    list-style: none;
-}
-
+ 
 a{
-    text-decoration: none;
+    /* text-decoration: none;  */
     color:rgb(75, 74, 74);
 }
 
@@ -27,7 +24,7 @@ a{
 
 .list {  
 
-    list-style: none;
+    /* list-style: none; */
     margin: 0;
     padding: 0;
 }
@@ -126,6 +123,7 @@ a{
 
 .list{
     padding-top: 20px;
+    list-style:square;
 }
 
 .contact-list_item {
@@ -155,8 +153,9 @@ a{
 }
 
 .bars {
-    margin-top: 30px;
-    margin-left: 30px;
+    color: rgb(75, 74, 74);;
+    margin-left: 65px;
+   
 }
 
 .bar{
@@ -248,7 +247,7 @@ a{
     }
     
     .projects-list {
-    
+    list-style: none;
     padding: 0;
     margin-left: 15px;
     }
@@ -302,6 +301,10 @@ a{
         width: 650px;
         
     }
+
+    .work-group:not(:last-child){
+        margin-bottom: 20px;
+    }
     
     .work-position {
     
@@ -309,7 +312,7 @@ a{
         font-weight: 700;
         font-size: 16px;
         line-height: 20px;
-        color: #000000;
+        color: #7c4659;
         margin-bottom: 10px;
         
     }
@@ -341,11 +344,13 @@ a{
         line-height: 15px;
         color: #000000;    
     }
+
+    .work-list{
+        padding: 0;
+        margin-left: 15px;
+    }
     
-    .work-list {
-    
-    padding: 0;
-    margin-left: 15px;
+    .work-list:not(:last-child) {   
     margin-bottom: 30px;
     }
     
@@ -362,10 +367,11 @@ a{
     .education {
     /* padding-left:  70px; */
     width: 650px;
+    list-style: none;
     }
 
     .education-type{
-        margin-bottom: 50px;
+        margin-bottom: 30px;
     }
     
     .university {
