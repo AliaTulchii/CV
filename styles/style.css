@@ -5,6 +5,12 @@
     font-family: sans-serif;
 }
 
+body{
+    width: 1200px;
+    margin: auto;
+}
+
+
  
 a{
     /* text-decoration: none;  */
@@ -17,9 +23,9 @@ a{
 }
 
 .cv{
-    margin-left: auto;
-    margin-right: auto;
-    width: 1280px;
+    /* margin-left: auto;
+    margin-right: auto; */
+    /* width: 100%; */
 }
 
 .list {  
