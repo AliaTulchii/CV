@@ -214,7 +214,7 @@ a{
     color: rgb(75, 74, 74);
     text-align: justify;
     /* word-break: break-all; */
-    font-size: 21px;
+    font-size: 16px;
 }
 
 
@@ -262,7 +262,7 @@ a{
     
     font-style: normal;
     font-weight: 700;
-    font-size: 14px;
+    font-size: 16px;
     line-height: 24px;
     color: rgb(75, 74, 74);    
     }
@@ -272,7 +272,7 @@ a{
     
     font-style: normal;
     font-weight: 400;
-    font-size: 14px;
+    font-size: 16px;
     line-height: 24px;
     color: rgb(75, 74, 74);
     }
@@ -287,13 +287,13 @@ a{
     background-color: #FFFFFF;
     color: #7e1c43;
     cursor: pointer;
-    font-size: 15px;
+    font-size: 16px;
     }
     
     .project-bracket {
     font-style: normal;
     font-weight: 700;
-    font-size: 14px;
+    font-size: 16px;
     line-height: 24px;
     color: #000000;
     }
@@ -335,7 +335,7 @@ a{
     
     font-style: normal;
     font-weight: 400;
-    font-size: 14px;
+    font-size: 16px;
     line-height: 15px;
     color: #3f3f3f;
     margin-bottom: 9px;
@@ -364,7 +364,7 @@ a{
     
     font-style: normal;
     font-weight: 400;
-    font-size: 14px;
+    font-size: 16px;
     line-height: 24px;
     color: #595959;    
     }
@@ -395,7 +395,7 @@ a{
     
     font-style: normal;
     font-weight: 700;
-    font-size: 14px;
+    font-size: 16px;
     line-height: 17px;
     color: #000000;
     margin-bottom: 12px;
